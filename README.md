@@ -120,13 +120,18 @@ rama feature/* ──> GitHub Actions (tests/lint) ──> PR a develop ──> 
 **Curso:** Fundamentos de Sistemas de Información — 2026-B  
 **Tribu:** 3 — Finanzas | **Grupo:** C | **Equipo:** 3  
 
-| Integrante | Rol principal | Roles de apoyo | Estado |
-|---|---|---|---|
-| Dávila Flores Mathias Dario | Product Owner / Scrum Master (interino) | QA, Matriz de Aceptación y DevOps (CI/CD) | Activo |
-| Quispe Diaz Sara Sofia | Backend / Frontend | Arquitectura y Patrones de Diseño | Activa |
-| Subia Huaicane Edson Fabricio | Scrum Master (asignación original) | — | Sin reporte actual |
+| Rol | Integrante asignado | Estado |
+|---|---|---|
+| **Product Owner** | Dávila Flores Mathias Dario | Activo |
+| **Scrum Master** *(interino)* | Dávila Flores Mathias Dario | Activo *(cubre ausencia temporal)* |
+| **QA / Pruebas** | Dávila Flores Mathias Dario | Activo |
+| **DevOps** | Dávila Flores Mathias Dario | Activo |
+| **Backend** | Quispe Diaz Sara Sofia | Activa |
+| **Frontend** | Quispe Diaz Sara Sofia | Activa |
+| **Arquitectura** | Quispe Diaz Sara Sofia | Activa |
+| **Patrones de diseño** | Quispe Diaz Sara Sofia | Activa |
 
-*Nota: Ante la falta de reporte del Scrum Master original, la coordinación ágil y gestión de ramas es asumida temporalmente por Mathias Dávila para garantizar la continuidad del equipo.*
+*Nota: El integrante Subia Huaicane Edson Fabricio (Scrum Master asignado originalmente) no se ha reportado a la fecha, por lo que los 8 roles del equipo son cubiertos activamente por Mathias Dávila y Sara Quispe para garantizar la continuidad del módulo.*
 
 ---
 
